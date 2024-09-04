@@ -101,30 +101,13 @@ export function HomePage() {
         </div>
       </section>
         
-            
+      
 
 
 
             <h2 className="mb-4 text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl font-display text-[#b8c1ec]">Experience</h2>
             <div className="relative flex flex-col gap-8">
               <div className="absolute left-1/2 top-0 h-full w-[2px] -translate-x-1/2 bg-[#a7a9be]" />
-              <div className="grid grid-cols-[1fr_auto_1fr] items-center gap-4">
-                <div className="space-y-2 text-right">
-                  <h3 className="text-lg font-medium font-serif text-[#b8c1ec]">Software Engineer Fellowship</h3>
-                  <p className="text-[#a7a9be] font-mono">Headstarter AI</p>
-                  <p className="text-[#a7a9be] font-display">July 2024 - Present</p>
-                </div>
-                <div className="relative flex items-center justify-center">
-                  <div className="h-8 w-8 rounded-full bg-[#b8c1ec]"/>
-                </div>
-                <div className="space-y-2 text-left">
-                  <p className="text-[#a7a9be] font-display">
-                    Developing 5 AI projects in 7 weeks, showcasing strong project management and technical skills.
-                    Collaborating with industry professionals on real-world problems and enhancing expertise in software development,
-                    project management, and team collaboration through intensive workshops and practical applications.
-                  </p>
-                </div>
-              </div>
               <div className="grid grid-cols-[1fr_auto_1fr] items-center gap-4">
                 <div className="space-y-2 text-right">
                   <h3 className="text-lg font-medium font-serif text-[#b8c1ec]"> Web Developer Intern</h3>
@@ -146,6 +129,48 @@ export function HomePage() {
                   <p className="text-[#a7a9be] font-display">
                     Improved website uptime by 30% through collaborative troubleshooting
                     with cross-functional teams, enhancing user experience.
+                  </p>
+                </div>
+              </div>
+
+              <div className="grid grid-cols-[1fr_auto_1fr] items-center gap-4">
+                <div className="space-y-2 text-right">
+                  <h3 className="text-lg font-medium font-serif text-[#b8c1ec]">Software Engineer Fellowship</h3>
+                  <p className="text-[#a7a9be] font-mono">Headstarter AI</p>
+                  <p className="text-[#a7a9be] font-display">July 2024 - Present</p>
+                </div>
+                <div className="relative flex items-center justify-center">
+                  <div className="h-8 w-8 rounded-full bg-[#b8c1ec]"/>
+                </div>
+                <div className="space-y-2 text-left">
+                  <p className="text-[#a7a9be] font-display">
+                    Developing 5 AI projects in 7 weeks, showcasing strong project management and technical skills.
+                    Collaborating with industry professionals on real-world problems and enhancing expertise in software development,
+                    project management, and team collaboration through intensive workshops and practical applications.
+                  </p>
+                </div>
+              </div>
+
+              <div className="grid grid-cols-[1fr_auto_1fr] items-center gap-4">
+                <div className="space-y-2 text-right">
+                  <h3 className="text-lg font-medium font-serif text-[#b8c1ec]">Blockchain and Web3 Security Research</h3>
+                  <p className="text-[#a7a9be] font-mono">Extern</p>
+                  <p className="text-[#a7a9be] font-display">May 2024 - July 2024</p>
+                </div>
+                <div className="relative flex items-center justify-center">
+                  <div className="h-8 w-8 rounded-full bg-[#b8c1ec]" />
+                </div>
+                <div className="space-y-2 text-left">
+                  <p className="text-[#a7a9be] font-display">
+                    Collaborated closely with senior researchers to evaluate emerging blockchain technologies
+                    and assess their security implications.
+                  </p>
+                  <p className="text-[#a7a9be] font-display">
+                    Evaluated Web3 security startups and competitors,
+                    focusing on product offerings and market position to identify disruptors.
+                  </p>
+                  <p className="text-[#a7a9be] font-display">
+                  Executed research and mapped blockchain solutions to enhance digital competitiveness.
                   </p>
 
                 </div>
