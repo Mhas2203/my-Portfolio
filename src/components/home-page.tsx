@@ -137,7 +137,7 @@ export function HomePage() {
                 <div className="space-y-2 text-right">
                   <h3 className="text-lg font-medium font-serif text-[#b8c1ec]">Software Engineer Fellowship</h3>
                   <p className="text-[#a7a9be] font-mono">Headstarter AI</p>
-                  <p className="text-[#a7a9be] font-display">July 2024 - Present</p>
+                  <p className="text-[#a7a9be] font-display">July 2024 - October 2024</p>
                 </div>
                 <div className="relative flex items-center justify-center">
                   <div className="h-8 w-8 rounded-full bg-[#b8c1ec]"/>
