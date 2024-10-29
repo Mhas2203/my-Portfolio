@@ -11,7 +11,7 @@ export function HomePage() {
               Computer Science Student
             </h2>
             <p className="text-[#a7a9be] md:text-lg font-displayy">
-              As a rising junior in Computer Science at the University of Minnesota, I’m gaining hands-on experience through a Web Development Internship and a Software Engineering Fellowship.
+              As a rising junior in Computer Science at the University of Minnesota, I’m gaining hands-on experience through a Frontend Engineer Internship and a Software Engineering Fellowship.
               I’m passionate about creating innovative solutions and thrive in designing user-friendly interfaces and efficient software.
               My collaborative mindset and strong communication skills drive me to contribute meaningfully to impactful projects.
             </p>
@@ -110,7 +110,7 @@ export function HomePage() {
               <div className="absolute left-1/2 top-0 h-full w-[2px] -translate-x-1/2 bg-[#a7a9be]" />
               <div className="grid grid-cols-[1fr_auto_1fr] items-center gap-4">
                 <div className="space-y-2 text-right">
-                  <h3 className="text-lg font-medium font-serif text-[#b8c1ec]"> Web Developer Intern</h3>
+                  <h3 className="text-lg font-medium font-serif text-[#b8c1ec]"> Frontend Engineer Intern</h3>
                   <p className="text-[#a7a9be] font-mono">Energy Solutions & Technologies</p>
                   <p className="text-[#a7a9be] font-display">January 2024 - Present</p>
                 </div>
